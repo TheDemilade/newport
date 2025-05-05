@@ -1,0 +1,11 @@
+{
+  "name": "Jane Doe",
+  "about": "...",
+  "education": [...],
+  "skills": [...],
+  "projects": [...],
+  "contact": {
+    "email": "...",
+    "socials": {...}
+  }
+}
